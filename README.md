@@ -7,5 +7,7 @@ There are people who don’t have enough money, and there are people who don’t
 
 We can connect them with a smart contract to do the adoption together. 
 
-The contract is deployed in Ethereum Ropsten Test Network, the address of the contract is 0x6B65ef8835c38003FF5d88910c2415B2597F4D34
+The contract is deployed in Ethereum Ropsten Test Network, the address of the contract is 0xad43e893a498fb0f73c04848e433d458591e92d7
+
+You can add PSA Token as Custom Token in MetaMask with the address
 
