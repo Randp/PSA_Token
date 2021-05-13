@@ -6,3 +6,6 @@ If you’ve longed for a dog, hankered after a hamster, or craved a cat for as l
 There are people who don’t have enough money, and there are people who don’t have time and energy. 
 
 We can connect them with a smart contract to do the adoption together. 
+
+The contract is deployed in Ethereum Ropsten Test Network, the address of the contract is 0x6B65ef8835c38003FF5d88910c2415B2597F4D34
+
