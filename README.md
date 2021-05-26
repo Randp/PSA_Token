@@ -7,7 +7,9 @@ There are people who don’t have enough money, and there are people who don’t
 
 We can connect them with a smart contract to do the adoption together. 
 
-The contract is deployed in Ethereum Ropsten Test Network, the address of the contract is 0xad43e893a498fb0f73c04848e433d458591e92d7
+The PSA voting is for the voting functoin.
 
-You can add PSA Token as Custom Token in MetaMask with the address
+The PSA contract is deployed in Ethereum Ropsten Test Network, the address of the contract is 0xad43e893a498fb0f73c04848e433d458591e92d7
+
+Will implement the voting function to the Ethereum Ropsten Test Network soon, You can now add PSA Token as Custom Token in MetaMask with the address.
 
