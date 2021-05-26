@@ -1,7 +1,8 @@
 PSAvote
 ==================
 
-This [React] app was initialized with [create-near-app]
+This [React] app was initialized with [create-near-app] 
+It is working on the codes provided by NEAR Blockhead tutorial https://www.youtube.com/channel/UCuKdIYVN8iE3fv8alyk1aMw
 
 
 Quick Start
